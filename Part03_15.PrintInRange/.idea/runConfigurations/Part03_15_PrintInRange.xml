@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_15.PrintInRange" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PrintInRange" />
+    <module name="Part03_15.PrintInRange" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

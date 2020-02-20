@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_19.IndexWasNotFound" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="IndexWasNotFound" />
+    <module name="Part03_19.IndexWasNotFound" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

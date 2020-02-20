@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_20.SumOfArray" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SumOfArray" />
+    <module name="Part03_20.SumOfArray" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

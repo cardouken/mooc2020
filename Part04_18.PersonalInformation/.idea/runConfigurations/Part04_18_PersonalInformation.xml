@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part04_18.PersonalInformation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PersonalInformationCollection" />
+    <module name="Part04_18.PersonalInformation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

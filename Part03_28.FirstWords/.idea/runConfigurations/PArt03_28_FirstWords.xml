@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PArt03_28.FirstWords" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FirstWords" />
+    <module name="PArt03_28.FirstWords" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

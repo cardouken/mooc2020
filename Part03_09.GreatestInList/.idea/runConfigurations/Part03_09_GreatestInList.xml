@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_09.GreatestInList" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="GreatestInList" />
+    <module name="Part03_09.GreatestInList" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_18.Swap" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Swap" />
+    <module name="Part03_18.Swap" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

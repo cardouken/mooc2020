@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_12.SumOfAList" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SumOfAList" />
+    <module name="Part03_12.SumOfAList" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

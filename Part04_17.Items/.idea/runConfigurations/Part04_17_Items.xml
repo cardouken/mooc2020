@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part04_17.Items" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Items" />
+    <module name="Part04_17.Items" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

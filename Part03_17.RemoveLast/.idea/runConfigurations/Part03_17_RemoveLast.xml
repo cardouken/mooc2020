@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_17.RemoveLast" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RemoveLast" />
+    <module name="Part03_17.RemoveLast" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
