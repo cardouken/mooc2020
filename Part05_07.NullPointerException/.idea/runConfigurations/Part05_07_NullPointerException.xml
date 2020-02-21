@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part05_07.NullPointerException" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="NullPointerExceptionProgram" />
+    <module name="Part05_07.NullPointerException" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

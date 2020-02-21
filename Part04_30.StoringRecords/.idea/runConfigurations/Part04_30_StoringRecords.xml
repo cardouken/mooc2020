@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part04_30.StoringRecords" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="StoringRecords" />
+    <module name="Part04_30.StoringRecords" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

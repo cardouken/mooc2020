@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part05_03.Cube" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Program" />
+    <module name="Part05_03.Cube" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
