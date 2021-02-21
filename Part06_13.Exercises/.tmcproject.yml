@@ -1,0 +1,4 @@
+force_new_sandbox: true
+extra_student_files:
+ - src/test/java/TehtavienhallintaTest.java
+
