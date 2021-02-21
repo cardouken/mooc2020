@@ -2,4 +2,4 @@
 
 All solutions pass MOOC.fi's provided tests. 
 
-Some implementations are not the prettiest, I just don't have time to review/refactor them. 
+Some implementations are not the prettiest, I just don't have time to review/refactor them.  All solutions do pass tests, however.
