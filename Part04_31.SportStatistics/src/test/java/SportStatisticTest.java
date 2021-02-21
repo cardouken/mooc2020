@@ -111,7 +111,7 @@ public class SportStatisticTest {
         }
        
         assertTrue("With the file:\n" + textToWriteToFile + "\nWhen searcing for cats the output should have the line \" Wins: 1\".\nthe output was:\n" + io.getSysOut(), lines(io.getSysOut()).stream().filter(l -> l.contains("Wins: 1")).count() == 1);
-        assertTrue("With the file:\n" + textToWriteToFile + "\nWhen searcing for superman the output should have the line \" Losses: 1\".\nthe output was:\n" + io.getSysOut(), lines(io.getSysOut()).stream().filter(l -> l.contains("Losses: 1")).count() == 1);
+        assertTrue("With the file:\n" + textToWriteToFile + "\nWhen searcing for cats the output should have the line \" Losses: 1\".\nthe output was:\n" + io.getSysOut(), lines(io.getSysOut()).stream().filter(l -> l.contains("Losses: 1")).count() == 1);
     }
 
     @Test
@@ -130,7 +130,7 @@ public class SportStatisticTest {
             deleteFile(fileName);
         }
        
-        assertTrue("With the file:\n" + textToWriteToTheFile + "\nWhen searcing for superman the output should have the line \" Wins: 0\".\nthe output was:\n" + io.getSysOut(), lines(io.getSysOut()).stream().filter(l -> l.contains("Wins: 0")).count() == 1);
+        assertTrue("With the file:\n" + textToWriteToTheFile + "\nWhen searcing for superman the output should have the line \" Wins: 1\".\nthe output was:\n" + io.getSysOut(), lines(io.getSysOut()).stream().filter(l -> l.contains("Wins: 1")).count() == 1);
         assertTrue("With the file:\n" + textToWriteToTheFile + "\nWhen searcing for superman the output should have the line \" Losses: 0\".\nthe output was:\n" + io.getSysOut(), lines(io.getSysOut()).stream().filter(l -> l.contains("Losses: 0")).count() == 1);
     }
 
